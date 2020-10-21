@@ -7,4 +7,5 @@ package com.qfedu.common;
  * Description:
  */
 public class test {
+    String df = "ddd";
 }
