@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.qfedu</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>online_edu</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo</name>
+    <name>online_edu</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
